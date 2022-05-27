@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.147" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/drawable/cicular_progress.xml" value="0.1235" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/drawable/cicular_progress_gray.xml" value="0.1235" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/drawable/circular_accent_background.xml" value="0.1235" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/drawable/color_selector.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/drawable/drawableunit_selector.xml" value="0.1185" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1185" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1185" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/drawable/item_circular_accent_background.xml" value="0.1235" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/drawable/item_circular_shape.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/drawable/item_circular_white_background.xml" value="0.1235" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/drawable/report_concept_for_ripple.xml" value="0.147" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/layout/activity_bmi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/layout/activity_exercise.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/layout/activity_finish.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/layout/activity_histroy.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/layout/activity_splash_screen.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/layout/back_button.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/layout/item_exercise_status.xml" value="0.1609375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/layout/item_history_row.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/layout/itemexercisestatus.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WorkOut/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1185" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

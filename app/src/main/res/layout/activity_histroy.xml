@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HistroyActivity">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolBarHistroy"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="match_parent"
+        android:theme="@style/ToolbarTheme"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@color/white"
+        app:titleTextColor="@color/teal_700"  />
+    <TextView
+        app:layout_constraintTop_toBottomOf="@+id/toolBarHistroy"
+        android:id="@+id/tvHistory"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:text="EXERCISE COMPLETED"
+        android:textSize="19sp"
+        android:visibility="gone"
+        tools:visibility="visible"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <androidx.recyclerview.widget.RecyclerView
+        app:layout_constraintTop_toBottomOf="@+id/tvHistory"
+        android:id="@+id/rvTEXT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        tools:visibility="visible"/>
+    <TextView
+        android:id="@+id/tvNodata"
+        app:layout_constraintTop_toBottomOf="@+id/toolBarHistroy"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_width="match_parent"
+        android:text="NO DATA AVAILABLE"
+        android:textColor="#000000"
+        android:textSize="19sp"
+        android:textAlignment="center"
+        android:visibility="gone"
+        tools:visibility="visible"
+        android:layout_height="wrap_content"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
